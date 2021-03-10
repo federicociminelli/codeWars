@@ -1,3 +1,3 @@
 # codeWars
 
-Repo che contiene i cata risolti presi da https://codewars.com
+Repo che contiene i Kata risolti presi da https://codewars.com
