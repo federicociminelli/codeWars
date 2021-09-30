@@ -7,7 +7,7 @@ So far i chose only python as my preferred language, but you can choose as much 
 
 **Profile**
 
-* https://www.codewars.com/profile/FC19
+* https://www.codewars.com/users/FC19
 
 
 **Actual Ranking**
