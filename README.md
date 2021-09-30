@@ -2,8 +2,7 @@
 
 **Content**
 
-All resolved Kata from https://www.codewars.com/ which is a platform where you can train your programming skills by submit solutions to different difficulty of exercises, in mostly any language you prefer.
-So far i chose only python as my preferred language, but you can choose as much as you want.
+Resolved Katas from https://codewars.com/
 
 **Profile**
 
