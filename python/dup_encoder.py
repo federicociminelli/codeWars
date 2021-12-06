@@ -5,8 +5,6 @@ or ")" if that character appears more than once in the original string.
 Ignore capitalization when determining if a character is a duplicate.
 '''
 
-#! non funziona come doverbbe
-
 
 def duplicate_encode(word):
     res = ""
