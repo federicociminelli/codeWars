@@ -19,18 +19,10 @@ the given number is a Narcissistic number in base 10.
 
 
 def narcissistic(value):
-    cifre = str(value)
-    to_match = 0
-    for digit in cifre:
-        to_match += int(digit)**len(cifre)
-    return value == to_match
+    return value == sum(int(x) ** len(str(value)) for x in str(value))
 
 
 narcissistic(7)
 narcissistic(371)
 narcissistic(122)
 narcissistic(4887)
-
-# Piu elegente:
-# def narcissistic(value):
-#     return value == sum(int(x) ** len(str(value)) for x in str(value))
