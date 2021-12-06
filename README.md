@@ -2,7 +2,7 @@
 
 **Content**
 
-Resolved Katas from https://codewars.com/
++ Resolved Katas from https://codewars.com/
 
 **Profile**
 
